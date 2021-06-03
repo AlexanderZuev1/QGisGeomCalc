@@ -6,6 +6,9 @@ Your plugin GeomCalculator was created in:
 Your QGIS plugin directory is located at:
     C:/Users/philw/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
 
+Compactness factor  = Perimeter of each feature / (4 * sqrt(area of each feature))
+Compactness index - area of each feature / bounding box area of each feature
+
 What's Next:
 
   * Copy the entire directory containing your new plugin to the QGIS plugin
